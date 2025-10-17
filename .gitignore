@@ -1,0 +1,14 @@
+# PHP
+/vendor/
+/composer.lock
+
+# Database credentials (if any, though db_connect.php is committed for this simple app)
+# .env
+
+# Logs
+*.log
+/php_error_log
+
+# OS generated files
+.DS_Store
+thumbs.db
