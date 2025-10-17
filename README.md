@@ -1,5 +1,8 @@
 # PHP Native CRUD Application
 
+<img width="1372" height="815" alt="image" src="https://github.com/user-attachments/assets/af837b89-4c98-4e5e-ae51-b3d4665af9b7" />
+
+
 This is a simple CRUD (Create, Read, Update, Delete) application built using native PHP, Bootstrap for frontend styling, and JavaScript (jQuery) for AJAX operations. This application was created using vibe coding with Gemini 2.5 Flash preview.
 
 ## Features
